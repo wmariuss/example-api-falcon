@@ -1,4 +1,4 @@
-# api-example-falcon
+# example-api-falcon
 
 Create a REST API using Falcon Framework.
 
